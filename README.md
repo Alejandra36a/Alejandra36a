@@ -1,7 +1,7 @@
 
 Console.log("Hello Wordl! ✨")
 
-Soy desarooladora web full stack junior. Apasionada por la tecnología y el aprendizaje continuo. 🔭
+Soy  desarolladora web full stack. Apasionada por la tecnología y el aprendizaje continuo. 🔭
 
 ##Habilidades 👨🏽‍💻
 
