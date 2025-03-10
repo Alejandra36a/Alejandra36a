@@ -27,6 +27,11 @@ Soy  desarolladora web full stack. Apasionada por la tecnología y el aprendizaj
   -Tecnologías usadas: React, JavaScript, HTML, CSS, Bootstrap, API Externa Sponocular y OpenAI. 
   -! ![image](https://github.com/user-attachments/assets/e7e2611c-77eb-4d75-9b07-13d9fa3f2faf)
 
+##Experiencia
+-Desarroladora en aplicación móvil: Bubbo. 
+  - Tecnologías utilizadas: React Native, NodeJs, Express, TypeScript.
+  - Contribuciones: Optimización e implementación de nuevas funcionalidades. 
+
 ## Contacto
 -Email: alejandra36a@gmail.com
 -LinkedIn: www.linkedin.com/in/aaguirre25
