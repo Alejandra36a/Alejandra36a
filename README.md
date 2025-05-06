@@ -3,6 +3,7 @@
 Desarrolladora web Full Stack, apasionada por la tecnología, la resolución de problemas y el aprendizaje continuo. Me encanta construir soluciones que combinan una buena experiencia de usuario con un backend sólido.
 
 🚀 Habilidades Técnicas
+
 🖥️ Front-end
 
 JavaScript 
