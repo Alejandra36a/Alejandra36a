@@ -17,6 +17,7 @@ Next.js
 
 
 🗄️ Back-end
+
 Python
 RESTful APIs
 Flask / Express.js
@@ -24,6 +25,7 @@ JWT
 SQLAlchemy
 
 🧠 Bases de Datos
+
 PostgreSQL
 MySQL
 SQL
@@ -31,6 +33,7 @@ MongoDB
 Firebase
 
 📫Herramientas
+
 Git
 Visual Studio Code
 Postman
