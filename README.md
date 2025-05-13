@@ -1,36 +1,34 @@
 
-¡Hola! Soy Alejandra 👩‍💻
-Desarrolladora web Full Stack, apasionada por la tecnología, la resolución de problemas y el aprendizaje continuo. Me encanta construir soluciones que combinan una buena experiencia de usuario con un backend sólido.
+# ¡Hola! Soy Alejandra 👩‍💻  
+Desarrolladora Full Stack con enfoque en aplicaciones móviles y web. Apasionada por la tecnología, el diseño de soluciones útiles y el aprendizaje continuo.
 
-🚀 Habilidades Técnicas: 
-
-🖥️ Front-end
-
-  JavaScript,  TypeScript, React,  React Native, Bootstrap,  CSS3, HTML5,  Next.js
-
-🗄️ Back-end
-
-Python
-RESTful APIs, Flask / Express.js, JWT, SQLAlchemy
-
-🧠 Bases de Datos
-
-PostgreSQL,MySQL, SQL, MongoDB, Firebase
-
-📫Herramientas
-
-Git, Visual Studio Code, Postman, Twilio, Swagger
+---
 
 
-💼 Experiencia
-    📱 Desarrolladora en aplicación móvil: **Bubbo**
-  - Tecnologías utilizadas: React Native, NodeJs, Express, TypeScript, Firebase.
-  - Contribuciones: Optimización e implementación de nuevas funcionalidades. 
+### 🚀 Tech Stack
+
+** 🖥️ Frontend:** React, React Native, TypeScript, JavaScript, HTML5, CSS3, TailwindCSS, Bootstrap, Next.js  
+** 🗄️ Backend:** Node.js, Express.js, Python, Flask, REST APIs, JWT  
+** 🧠 Bases de Datos:** PostgreSQL, MySQL, MongoDB, Firebase  
+** 📫 Herramientas:** Git, VS Code, Postman, Swagger, Twilio, Cloudinary
+
+---
 
 
-🌟 Proyectos Destacados
+### 💼 Experiencia Actual
 
-🏋️‍♂️ Routeen    
+**👩‍💻 Desarrolladora en Bubbo**  
+Actualmente formo parte del equipo de desarrollo de **Bubbo**, una app de recomendaciones de entretenimiento basada en IA. Me enfoco en la creación de nuevas funcionalidades y en la optimización del rendimiento.
+
+Tecnologías utilizadas: **React Native, Firebase, TypeScript, Express.js**
+
+
+
+---
+
+### 🌟 Proyectos Destacados
+
+#### 🏋️‍♂️ Routeen – Gestión de rutinas deportivas 
 (https://github.com/Alejandra36a/i005-routeen-front)  ( https://github.com/Alejandra36a/i005-routeen-back )  (2025 - Remoto | Igrowker | IT Training)
   **Routeen** es una aplicación diseñada para mejorar la comunicación entre entrenadores y atletas, permitiendo la gestión remota de rutinas y el seguimiento personalizado del progreso.
   **Características destacadas:**
@@ -64,9 +62,15 @@ Git, Visual Studio Code, Postman, Twilio, Swagger
   
   ![image](https://github.com/user-attachments/assets/e7e2611c-77eb-4d75-9b07-13d9fa3f2faf)
   
+---
 
-  
+  ### 🌱 Actualmente aprendiendo...
+- Spring Boot
+- Pruebas con Jest y React Testing Library
+- Mejores prácticas de accesibilidad
 
+
+  ---
 
 📫 Contacto
    ✉️ Email: alejandra36a@gmail.com
