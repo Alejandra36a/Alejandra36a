@@ -65,7 +65,7 @@ Tecnologías utilizadas: **React Native, Firebase, TypeScript, Express.js**
 ---
 
   ### 🌱 Actualmente aprendiendo...
-- Spring Boot
+- Java 
 - Pruebas con Jest y React Testing Library
 - Mejores prácticas de accesibilidad
 
