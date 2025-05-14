@@ -7,7 +7,7 @@ Desarrolladora Full Stack con enfoque en aplicaciones móviles y web. Apasionada
 
 ### 🚀 Tech Stack
 
-** 🖥️ Frontend:** React, React Native, TypeScript, JavaScript, HTML5, CSS3, TailwindCSS, Bootstrap, Next.js  
+** 🖥️ Frontend:** React, React Native, TypeScript, JavaScript, HTML5, CSS3, Bootstrap, Next.js  
 ** 🗄️ Backend:** Node.js, Express.js, Python, Flask, REST APIs, JWT  
 ** 🧠 Bases de Datos:** PostgreSQL, MySQL, MongoDB, Firebase  
 ** 📫 Herramientas:** Git, VS Code, Postman, Swagger, Twilio, Cloudinary
