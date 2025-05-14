@@ -61,6 +61,28 @@ Tecnologías utilizadas: **React Native, Firebase, TypeScript, Express.js**
   
   
   ![image](https://github.com/user-attachments/assets/e7e2611c-77eb-4d75-9b07-13d9fa3f2faf)
+  ---
+
+## 🎓 Certificaciones y Formación
+
+🎓 **Grado en Ingeniería Agrícola – Universidad de Sevilla (2021)**  
+👩‍💻 **Full Stack Developer – 4Geeks Academy**  
+📜 **Certified Agile Digital Product Practitioner™ (CADPP™)**
+
+---
+
+## 💡 Habilidades Blandas
+
+- Comunicación clara y efectiva  
+- Trabajo en equipo con metodologías ágiles (Scrum)  
+- Pensamiento analítico y enfoque en soluciones  
+- Autonomía y responsabilidad en entregas  
+- Gestión de tareas y priorización bajo presión  
+- Curiosidad constante por aprender nuevas tecnologías  
+- Orientación al usuario y enfoque en accesibilidad  
+- Mentalidad ágil y colaborativa
+
+---
   
 ---
 
