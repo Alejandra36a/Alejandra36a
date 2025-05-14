@@ -84,7 +84,7 @@ Tecnologías utilizadas: **React Native, Firebase, TypeScript, Express.js**
 
 ---
   
----
+
 
   ### 🌱 Actualmente aprendiendo...
 - Java 
