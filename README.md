@@ -61,6 +61,8 @@ Tecnologías utilizadas: **React Native, Firebase, TypeScript, Express.js**
   
   
   ![image](https://github.com/user-attachments/assets/e7e2611c-77eb-4d75-9b07-13d9fa3f2faf)
+
+  
   ---
 
 ## 🎓 Certificaciones y Formación
